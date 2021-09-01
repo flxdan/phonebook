@@ -1,0 +1,20 @@
+h1, h2 {
+  color: green;
+}
+
+.notif {
+  color: white;
+  font-style: italic;
+  font-Size: 16;
+  background-Color: red;
+  margin-Bottom: 1rem;
+}
+
+.personsList {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.main-container {
+  text-align: center;
+}
